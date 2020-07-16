@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  color: black 
+}
+header {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 10px;
+}
+li {
+margin: 20px;
+}
+
+a:hover{
+  color: white;
+}
+
+.bigtext {
+  font-size: 30px;
+}
+#clickme {
+  color: red;
